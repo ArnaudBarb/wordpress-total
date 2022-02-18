@@ -1,0 +1,12 @@
+/*
+    Theme Name: Astra
+    template: astra
+    Descritpion: Theme enfant de astra
+    Author: Minnion factory
+    Version: 1.1.0
+*/
+
+.ast-primary-header-bar{
+    display: flex;
+    flex-direction: column;
+}
